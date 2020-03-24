@@ -1,0 +1,9 @@
+.gif--container {
+  padding: 10px;
+  cursor: pointer;
+}
+
+.gif--container img {
+  width: 150px;
+  height: 150px;
+}

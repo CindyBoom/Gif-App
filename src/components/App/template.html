@@ -1,0 +1,37 @@
+<div class="mx-auto" >
+  <b-container>
+      <b-row align-h=“center” class=“mt5”>
+          <b-col cols=“5”>
+          <b-card class=“p-3” bg-variant="transparent">
+            <h1>GIF'S APP</h1>
+            <p>Search for the coolest gifs </p>  
+        <b-nav-form >
+        <b-input-group>
+        <b-form-input id="input-small" size="sm" type="text" v-model="search"/>
+        <b-button 
+        class="btn-success" 
+        type="button" 
+        v-on:click="searchNewGifs()"
+        variant="success"
+        size="sm">
+        <b-icon icon="search"></b-icon>
+        Search
+        </b-button>    
+        <div class="gifs--container">
+          <Gif v-for="gif in gifs" v-bind:key="gif.id" v-bind:data="gif"></Gif>
+        </div>
+        <b-button
+          class="btn-success"
+          type="button"
+          v-if="!stopNextPage"
+          v-on:click="getNextPage()">
+          Next Page
+        </b-button>
+      </b-input-group>
+    </b-nav-form>
+  </b-card>
+</b-col>
+</b-row>
+  </b-container>
+</div>
+

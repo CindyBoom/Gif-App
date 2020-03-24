@@ -1,0 +1,17 @@
+<b-modal size="lg" v-bind:id="data.id" v-bind:title="data.title" ok-only>
+  <video v-bind:src="data.originalUrl" autoplay loop></video>
+
+  <div class="input-group mb-2 mr-sm-2">
+    <b-form-input
+      type="text"
+      v-bind:id="data.id + '_input'"
+      class="form-control"
+      v-bind:value="data.giphyUrl"
+    />
+    <div class="input-group-prepend">
+      <b-button class="btn btn-secondary" v-on:click="copyToClipboard()">
+        Copy to clipboard
+      </b-button>
+    </div>
+  </div>
+</b-modal>
