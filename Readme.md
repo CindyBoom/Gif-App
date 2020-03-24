@@ -16,7 +16,7 @@
 - Siendo una persona Autodidacta y Apasionada por la tecnología desde hace mas de 15 años, decidí renunciar a mi trabajo el año pasado para meterme de completo aprender a programar y a partir de esto me he dado cuenta que mi manera de pensar en cuanto a negocios y tecnologia evolucionaron y quiero seguir profundizando en esto que me apasiona y me enamore de los super poderes que adquieres al saber programar para asi expandir mis posibilidades laborales y contactos en el medio tecnológico.
 
 ## Tienes a un mentor o modelo a seguir? Quien?
-- Si se llama Jorge Ramon y es un programador Full Stack en Globant. Aparte de ser un excelente mentor y programador, es geniunamente un excelente ser humano.
+- Si se llama Jorge Ramon @jorge_rockr y es un programador Full Stack en Globant. Aparte de ser un excelente mentor y programador, es geniunamente un excelente ser humano.
 
 ## Que fue lo último que has aprendido en programacion?
 - Actualmente estoy aprendiendo a desarrollar en Swift 
