@@ -1,5 +1,13 @@
+# Gif app with Vue.js, BootstrapVue, Axios, Typescript, API GIPHY
+
+### install project
+`npm install`
+
+### start project
+`npm run serve`
+
 # Prueba técnica Aiwifi Insights
-# Front End Developer JR
+# Front End Developer
 
 ## Dónde aprendiste a Programar?
 - Primero empece aprender en freecodecamp y despues me meti a estudiar con bedu en clases presenciales los sabados y en platzi.
