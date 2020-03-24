@@ -7,7 +7,7 @@
 `npm run serve`
 
 # Prueba técnica Aiwifi Insights
-# Front End Developer
+## Front End Developer
 
 ## Dónde aprendiste a Programar?
 - Primero empece aprender en freecodecamp y despues me meti a estudiar con bedu en clases presenciales los sabados y en platzi.
