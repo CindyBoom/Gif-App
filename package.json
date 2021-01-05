@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@vue/cli-plugin-babel": "4.1.1",
-    "axios": "0.19.2",
+    "axios": "0.21.1",
     "bootstrap": "4.4.1",
     "bootstrap-vue": "2.8.0",
     "ts-loader": "6.2.1",
